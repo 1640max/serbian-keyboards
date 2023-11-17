@@ -1,6 +1,6 @@
 # Русско-сербская и англо-сербская раскладки клавиатуры (+ типографская раскладка Бирмана)
 
-<!-- [🇬🇧 English ↓](#english-serbian-and-russian-serbian-keyboard-layouts-birmans-typography-layout) -->
+[🇬🇧 English](#-english-serbian-and-russian-serbian-keyboard-layouts--birmans-typography-layout-)
 
 **→ [Скачать для Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
 
