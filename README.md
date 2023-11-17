@@ -1,4 +1,6 @@
-# <!-- English-Serbian and Russian-Serbian keyboard layouts (+ typography layout)<br> --> Русско-сербская и англо-сербская раскладки клавиатуры (+ типографская раскладка Бирмана)
+# Русско-сербская и англо-сербская раскладки клавиатуры (+ типографская раскладка Бирмана)
+
+<!-- [🇬🇧 English ↓](#english-serbian-and-russian-serbian-keyboard-layouts-birmans-typography-layout) -->
 
 **→ [Скачать для Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
 
@@ -65,6 +67,65 @@
 ```
 Номер карты РФ: 2200 7001 6761 2224 (Максим М.)
 ЕРИП (РБ): 0010095302698
+WMZ: Z202860630711
+BTC: 1HTmbQEJtxn3GSrnvWHwYNfVxoGR2Q9J2h
+ETH (ERC20): 0xa17531cf6d835284f7600249ad348202ea8ce7a5
+USDT (TRC20): TEqFfJT59y8BprZNachScB4FN3AMra4VYP
+```
+
+# 🇬🇧 English-Serbian and Russian-Serbian Keyboard Layouts (+ Birman's Typography Layout) <a name="english"></a>
+
+**→ [Download for Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
+
+Upon installation, you gain the ability to input Serbian characters through the right Alt key:
+
+```
+đ = Alt + d
+š = Alt + s
+and so on.
+```
+
+There's no need to toggle anything on and off every time you want to type Serbian letters; just press Alt when needed.
+
+## Simple Layout
+
+<img width="892" alt="English-Serbian keyboard layout" src="https://github.com/1640max/serbian-keyboards/assets/10937063/c9b893b9-e482-41c7-98c9-187476e273a1">
+
+Serbian letters are positioned on keys that visually resemble English letters. Just remember the location of `ć`, which is next to `č`.
+
+<details>
+  <summary>Feature</summary>
+  
+  Diacritic letters are duplicated on the right side of the Latin layout, similar to the original Serbian keyboard. If this is more convenient for you, press `[`, `]`, `\`, `;`, and `'` with Alt held down.
+  
+</details>
+
+## Birman's Typography Layout ([what's this?](https://ilyabirman.net/typography-layout/))
+
+Changed keys are highlighted:
+
+<img width="892" alt="Birman's typography layout with Serbian letters" src="https://github.com/1640max/serbian-keyboards/assets/10937063/d25c2204-1454-4484-a609-31e97e532ca6">
+
+<details>
+  <summary>Differences from the original layout</summary>
+  
+*  `Ѳ` and `⇧` removed.
+* `°` and `⌀` moved to the letter `o`.
+* Cedilla `̧` moved to `'`.
+* `×` and `·` moved to `[`.
+* `©` moved to `8`.
+* `¢` moved to `f`.
+* `§` moved to `5`.
+
+</details>
+
+## Versions for macOS and Unix
+
+I don't have the ability to create them since I only have a Windows laptop. If you have a Mac or Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](t.me/max1640)
+
+## Buy me an espresso
+
+```
 WMZ: Z202860630711
 BTC: 1HTmbQEJtxn3GSrnvWHwYNfVxoGR2Q9J2h
 ETH (ERC20): 0xa17531cf6d835284f7600249ad348202ea8ce7a5
