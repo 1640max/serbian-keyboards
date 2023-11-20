@@ -61,7 +61,7 @@
 
 ## Версии для macOS и Unix
 
-У меня нет возможности их сделать, так как владею только ноутбуком с Виндусом. Если у вас есть Мак или Линукс и желание потратить немного времени, напишите мне — попробуем сделать клавиатуру вместе. Например, по видеосвязи. [t.me/max1640](t.me/max1640)
+У меня нет возможности их сделать, так как владею только ноутбуком с Виндусом. Если у вас есть Мак или Линукс и желание потратить немного времени, напишите мне — попробуем сделать клавиатуру вместе. Например, по видеосвязи. [t.me/max1640](https://t.me/max1640)
 
 ## Задонатить
 ```
@@ -121,7 +121,7 @@ Changed keys are highlighted:
 
 ## Versions for macOS and Unix
 
-I don't have the ability to create them since I only have a Windows laptop. If you have a Mac or Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](t.me/max1640)
+I don't have the ability to create them since I only have a Windows laptop. If you have a Mac or Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](https://t.me/max1640)
 
 ## Buy me an espresso
 
