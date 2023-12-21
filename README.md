@@ -65,6 +65,7 @@
 
 ## Задонатить
 ```
+paypal.me/1640MAX
 Номер карты РФ: 2200 7001 6761 2224 (Максим М.)
 ЕРИП (РБ): 0010095302698
 WMZ: Z202860630711
@@ -126,6 +127,7 @@ I don't have the ability to create them since I only have a Windows laptop. If y
 ## Buy me an espresso
 
 ```
+paypal.me/1640MAX
 WMZ: Z202860630711
 BTC: 1HTmbQEJtxn3GSrnvWHwYNfVxoGR2Q9J2h
 ETH (ERC20): 0xa17531cf6d835284f7600249ad348202ea8ce7a5
