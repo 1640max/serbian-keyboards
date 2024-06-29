@@ -5,15 +5,18 @@
 **→ [Скачать для Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
 
 После установки появляется возможность вводить сербские символы через правый Alt:
+
 ```
 đ = Alt + d
 š = Alt + s
 џ = Alt + ц
 и т.д.
 ```
+
 Ничего включать и выключать каждый раз для набора сербских букв не нужно, просто жмите Alt, когда необходимо.
 
 ## Простая раскладка
+
 <img width="892" alt="Русско-сербская раскладка клавиатуры. Russian-Serbian keyboard layout" src="https://github.com/1640max/serbian-keyboards/assets/10937063/fb39f68d-fa3e-42ca-9e01-282c193678d3">
 
 Где какая буква расположена запомнить легко: `љ`, `њ`, `џ` визуально похожи на русские, а `ћ` и `j` созвучны русским. Ещё `j` дублируется там же, где её английский близнец.
@@ -155,9 +158,11 @@ Changed keys are highlighted:
 
 </details>
 
-## Versions for macOS and Unix
+## Version for macOS
 
-I don't have the ability to create them since I only have a Windows laptop. If you have a Mac or Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](t.me/max1640)
+## Version for Unix
+
+I don't have the ability to create it since I only have a Windows laptop. If you have a Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](t.me/max1640)
 
 ## Buy me an espresso
 
