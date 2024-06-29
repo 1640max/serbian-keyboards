@@ -98,11 +98,12 @@
 
 ## Версия для Unix
 
-У меня нет возможности ее сделать, так как владею только ноутбуком с Виндусом. Если у вас есть Линукс и желание потратить немного времени, напишите мне — попробуем сделать клавиатуру вместе. Например, по видеосвязи. [t.me/max1640](t.me/max1640)
+У меня нет возможности ее сделать, так как владею только ноутбуком с Виндусом. Если у вас есть Линукс и желание потратить немного времени, напишите мне — попробуем сделать клавиатуру вместе. Например, по видеосвязи. [t.me/max1640](https://t.me/max1640)
 
 ## Задонатить
 
 ```
+paypal.me/1640MAX
 Номер карты РФ: 2200 7001 6761 2224 (Максим М.)
 ЕРИП (РБ): 0010095302698
 WMZ: Z202860630711
@@ -193,11 +194,12 @@ Beautiful layout icons will appear in the menu bar.
 
 ## Version for Unix
 
-I don't have the ability to create it since I only have a Windows laptop. If you have a Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](t.me/max1640)
+I can't create it since I only have a Windows laptop. If you use Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](https://t.me/max1640)
 
 ## Buy me an espresso
 
 ```
+paypal.me/1640MAX
 WMZ: Z202860630711
 BTC: 1HTmbQEJtxn3GSrnvWHwYNfVxoGR2Q9J2h
 ETH (ERC20): 0xa17531cf6d835284f7600249ad348202ea8ce7a5
