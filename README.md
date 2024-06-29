@@ -79,7 +79,7 @@
 2. Нажмите на `+` и выберите вашу новую раскладку из списка.
 3. Добавьте раскаладку, нажав на кнопку "Add".
 
-Теперь ваша новая раскладка клавиатуры установлена и готова к использованию. Вы можете вводить диакритические символы, используя клавишу ⌥ Option.
+Теперь ваша новая раскладка клавиатуры установлена и готова к использованию. Вы можете вводить символы с диакритикой, используя клавишу ⌥ Option.
 
 В меню-баре появятся иконки раскладок небывалой красоты.
 
@@ -158,6 +158,38 @@ Changed keys are highlighted:
 </details>
 
 ## Version for macOS
+
+Keyboard layout files for macOS are located in the `macOS` folder:
+
+- `Serbian - Latin.bundle` — Latin layout;
+- `Serbian - Cyrillic.bundle` — Cyrillic layout;
+
+### Installing the layouts
+
+Move the `.bundle` layout files to the **`~/Library/Keyboard Layouts/`** folder.
+
+### Adding the layouts to the system
+
+1. Open `System Preferences` > `Keyboard` > `Input Sources`.
+2. Click on `+` and select your new layout from the list.
+3. Add the layout by clicking the "Add" button.
+
+Now your new keyboard layout is installed and ready to use. You can input diacritic characters using the ⌥ Option key.
+
+Beautiful layout icons will appear in the menu bar.
+
+> [!WARNING]
+> If something doesn't work at some step, try logging out or restarting your computer. It really helps.
+
+### Removing the layouts
+
+1. Open `System Preferences` > `Keyboard` > `Input Sources`.
+2. Select the layout you want to remove and click the "—" button to delete it.
+3. Go to the **`~/Library/Keyboard Layouts/`** folder and delete the `.bundle` layout files.
+4. Restart your computer.
+
+> [!TIP]
+> If you want to get rid of the default U.S. layout in the list of active layouts, follow [this instruction](https://apple.stackexchange.com/a/60521) on the Apple Stack Exchange page.
 
 ## Version for Unix
 
