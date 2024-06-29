@@ -5,15 +5,18 @@
 **→ [Скачать для Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
 
 После установки появляется возможность вводить сербские символы через правый Alt:
+
 ```
 đ = Alt + d
 š = Alt + s
 џ = Alt + ц
 и т.д.
 ```
+
 Ничего включать и выключать каждый раз для набора сербских букв не нужно, просто жмите Alt, когда необходимо.
 
 ## Простая раскладка
+
 <img width="892" alt="Русско-сербская раскладка клавиатуры. Russian-Serbian keyboard layout" src="https://github.com/1640max/serbian-keyboards/assets/10937063/fb39f68d-fa3e-42ca-9e01-282c193678d3">
 
 Где какая буква расположена запомнить легко: `љ`, `њ`, `џ` визуально похожи на русские, а `ћ` и `j` созвучны русским. Ещё `j` дублируется там же, где её английский близнец.
@@ -55,15 +58,50 @@
 * `×` и `·` переехали на `[` (как в кирилллице);
 * `©` переехал на `8`
 * `¢` переехал на `f`
-* `§` переехал на `5`. 
+* `§` переехал на `5`.
 
 </details>
 
-## Версии для macOS и Unix
+## Версия для macOS
 
-У меня нет возможности их сделать, так как владею только ноутбуком с Виндусом. Если у вас есть Мак или Линукс и желание потратить немного времени, напишите мне — попробуем сделать клавиатуру вместе. Например, по видеосвязи. [t.me/max1640](https://t.me/max1640)
+Файлы раскладок для macOS находятся в папке `macOS`:
+
+- `Serbian - Latin.bundle` — латинская раскладка;
+- `Serbian - Cyrillic.bundle` — кириллическая раскладка;
+
+### Установка раскладок
+
+Переместите файлы раскладок `.bundle` в папку: **`~/Library/Keyboard Layouts/`**.
+
+### Добавление раскладок в систему
+
+1. Откройте `System Preferences` > `Keyboard` > `Input Sources`.
+2. Нажмите на `+` и выберите вашу новую раскладку из списка.
+3. Добавьте раскаладку, нажав на кнопку "Add".
+
+Теперь ваша новая раскладка клавиатуры установлена и готова к использованию. Вы можете вводить символы с диакритикой, используя клавишу ⌥ Option.
+
+В меню-баре появятся иконки раскладок небывалой красоты.
+
+> [!WARNING]
+> Если что-то на каком-то шаге не получилось, попробуйте перелогиниться или перезагрузить компьютер. Это правда помогает.
+
+### Удаление раскладок
+
+1. Откройте `System Preferences` > `Keyboard` > `Input Sources`.
+2. Выберите раскладку, которую хотите удалить, и на нажмите на кнопку "—" для удаления.
+3. Перейдите в папку **`~/Library/Keyboard Layouts/`** и удалите файлы раскладок `.bundle`.
+4. Перезагрузите компьютер.
+
+> [!TIP]
+> Если вы захотите избавиться от дефолтной U.S. раскладки в списке действующих раскладок, следуйте [этой инструкции](https://apple.stackexchange.com/a/60521) на странице Apple Stack Exchange.
+
+## Версия для Unix
+
+У меня нет возможности ее сделать, так как владею только ноутбуком с Виндусом. Если у вас есть Линукс и желание потратить немного времени, напишите мне — попробуем сделать клавиатуру вместе. Например, по видеосвязи. [t.me/max1640](https://t.me/max1640)
 
 ## Задонатить
+
 ```
 paypal.me/1640MAX
 Номер карты РФ: 2200 7001 6761 2224 (Максим М.)
@@ -120,9 +158,43 @@ Changed keys are highlighted:
 
 </details>
 
-## Versions for macOS and Unix
+## Version for macOS
 
-I don't have the ability to create them since I only have a Windows laptop. If you have a Mac or Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](https://t.me/max1640)
+Keyboard layout files for macOS are located in the `macOS` folder:
+
+- `Serbian - Latin.bundle` — Latin layout;
+- `Serbian - Cyrillic.bundle` — Cyrillic layout;
+
+### Installing the layouts
+
+Move the `.bundle` layout files to the **`~/Library/Keyboard Layouts/`** folder.
+
+### Adding the layouts to the system
+
+1. Open `System Preferences` > `Keyboard` > `Input Sources`.
+2. Click on `+` and select your new layout from the list.
+3. Add the layout by clicking the "Add" button.
+
+Now your new keyboard layout is installed and ready to use. You can input diacritic characters using the ⌥ Option key.
+
+Beautiful layout icons will appear in the menu bar.
+
+> [!WARNING]
+> If something doesn't work at some step, try logging out or restarting your computer. It really helps.
+
+### Removing the layouts
+
+1. Open `System Preferences` > `Keyboard` > `Input Sources`.
+2. Select the layout you want to remove and click the "—" button to delete it.
+3. Go to the **`~/Library/Keyboard Layouts/`** folder and delete the `.bundle` layout files.
+4. Restart your computer.
+
+> [!TIP]
+> If you want to get rid of the default U.S. layout in the list of active layouts, follow [this instruction](https://apple.stackexchange.com/a/60521) on the Apple Stack Exchange page.
+
+## Version for Unix
+
+I can't create it since I only have a Windows laptop. If you use Linux and are willing to spend a bit of time, let me know—we can try to create the keyboard together, perhaps through a video call. [t.me/max1640](https://t.me/max1640)
 
 ## Buy me an espresso
 
