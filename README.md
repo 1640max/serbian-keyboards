@@ -1,10 +1,10 @@
-# Русско-сербская и англо-сербская раскладки клавиатуры (+ типографская раскладка Бирмана)
+# Русско- и англо-сербская раскладки клавиатуры (+ типографская раскладка Бирмана)
 
 [🇬🇧 English](#-english-serbian-and-russian-serbian-keyboard-layouts--birmans-typography-layout-)
 
 **→ [Скачать для Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
 
-После установки появляется возможность вводить сербские символы через правый Alt:
+Установите раскладку и вводите сербские буквы через правый Alt:
 
 ```
 đ = Alt + d
@@ -13,13 +13,13 @@
 и т.д.
 ```
 
-Ничего включать и выключать каждый раз для набора сербских букв не нужно, просто жмите Alt, когда необходимо.
+Каждый раз что-то включать и выключать не придётся, просто жмите Alt по необходимости.
 
 ## Простая раскладка
 
 <img width="892" alt="Русско-сербская раскладка клавиатуры. Russian-Serbian keyboard layout" src="https://github.com/1640max/serbian-keyboards/assets/10937063/fb39f68d-fa3e-42ca-9e01-282c193678d3">
 
-Где какая буква расположена запомнить легко: `љ`, `њ`, `џ` визуально похожи на русские, а `ћ` и `j` созвучны русским. Ещё `j` дублируется там же, где её английский близнец.
+Расположение букв запомнить легко: `љ`, `њ`, `џ` визуально похожи на русские, а `ћ` и `j` созвучны русским. Ещё `j` дублируется там же, где её английский близнец.
 
 <img width="892" alt="Англо-сербская раскладки клавиатуры. English-Serbian keyboard layout" src="https://github.com/1640max/serbian-keyboards/assets/10937063/c9b893b9-e482-41c7-98c9-187476e273a1">
 
@@ -112,11 +112,11 @@ ETH (ERC20): 0xa17531cf6d835284f7600249ad348202ea8ce7a5
 USDT (TRC20): TEqFfJT59y8BprZNachScB4FN3AMra4VYP
 ```
 
-# 🇬🇧 English-Serbian and Russian-Serbian Keyboard Layouts (+ Birman's Typography Layout) <a name="english"></a>
+# 🇬🇧 English- and Russian-Serbian Keyboard Layouts (+ Birman's Typography Layout) <a name="english"></a>
 
 **→ [Download for Windows](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
 
-Upon installation, you gain the ability to input Serbian characters through the right Alt key:
+Install and type Serbian letters through the right Alt key:
 
 ```
 đ = Alt + d
@@ -124,13 +124,13 @@ Upon installation, you gain the ability to input Serbian characters through the 
 and so on.
 ```
 
-There's no need to toggle anything on and off every time you want to type Serbian letters; just press Alt when needed.
+No need to toggle anything on and off—just press Alt when needed.
 
 ## Simple Layout
 
 <img width="892" alt="English-Serbian keyboard layout" src="https://github.com/1640max/serbian-keyboards/assets/10937063/c9b893b9-e482-41c7-98c9-187476e273a1">
 
-Serbian letters are positioned on keys that visually resemble English letters. Just remember the location of `ć`, which is next to `č`.
+Serbian letters are positioned on the keys that visually resemble English letters. Just remember—`ć` is next to `č`.
 
 <details>
   <summary>Feature</summary>
@@ -148,7 +148,7 @@ Changed keys are highlighted:
 <details>
   <summary>Differences from the original layout</summary>
   
-*  `Ѳ` and `⇧` removed.
+* `Ѳ` and `⇧` removed.
 * `°` and `⌀` moved to the letter `o`.
 * Cedilla `̧` moved to `'`.
 * `×` and `·` moved to `[`.
