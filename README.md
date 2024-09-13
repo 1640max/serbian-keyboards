@@ -2,7 +2,7 @@
 
 [🇬🇧 English](#-english--and-russian-serbian-keyboard-layouts--birmans-typography-layout-)
 
-**→ [Скачать](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
+**→ [Скачать](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B%2B)**
 
 Установите раскладку и вводите сербские буквы через правый Alt или `⌥`:
 
@@ -73,7 +73,7 @@ WMZ: Z202860630711
 
 # 🇬🇧 English- and Russian-Serbian Keyboard Layouts (+ Birman's Typography Layout) <a name="english"></a>
 
-**→ [Download](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B)**
+**→ [Download](https://github.com/1640max/serbian-keyboards/releases/tag/v1.0%2B%2B)**
 
 Install and type Serbian letters through the right Alt key or `⌥`:
 
